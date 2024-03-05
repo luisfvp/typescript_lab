@@ -1,1 +1,3 @@
-# typescript_lab
+# TypeScript Learning Playground
+
+Welcome to the TypeScript Learning Playground! This project is designed to serve as a hands-on learning experience for individuals eager to explore and master TypeScript, a powerful superset of JavaScript. Whether you are a beginner or an experienced developer looking to enhance your skills, this repository provides a structured environment to dive into TypeScript's features, syntax, and best practices.
