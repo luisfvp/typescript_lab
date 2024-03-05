@@ -1,5 +1,9 @@
 "use strict";
-let firstname = 'Martin';
-console.log(firstname);
-let ontherName = 'luis';
-console.log(ontherName);
+/* TypeScript Simple Types */
+let age = 42;
+let isHeSuperman = true;
+let firstName = 'Luis fernando';
+/*
+bigint
+symbol
+*/ 

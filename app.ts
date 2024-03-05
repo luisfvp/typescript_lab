@@ -1,5 +1,8 @@
-let firstname: string = 'Martin';
-console.log(firstname);
-
-let ontherName = 'luis';
-console.log(ontherName);
+/* TypeScript Simple Types */
+let age:number = 42;
+let isHeSuperman:boolean = true;
+let firstName:string = 'Luis fernando';
+/* 
+bigint
+symbol
+*/
